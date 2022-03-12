@@ -1,6 +1,6 @@
 -- Event notes hooks
 function onEvent(name, value1, value2)
-	if name == 'Opponent Fade' then
+	if name == 'gf Fade' then
 		duration = tonumber(value1);
 		if duration < 0 then
 			duration = 0;
@@ -8,11 +8,11 @@ function onEvent(name, value1, value2)
 
 		targetAlpha = tonumber(value2);
 		if duration == 0 then
-			setProperty('dad.alpha', targetAlpha);
-			setProperty('iconP2.alpha', targetAlpha);
+			setProperty('gf.alpha', 1);
+			setProperty('iconP3.alpha', 1);
 		else
-			doTweenAlpha('dadFadeEventTween', 'dad', targetAlpha, duration, 'linear');
-			doTweenAlpha('iconDadFadeEventTween', 'iconP2', targetAlpha, duration, 'linear');
+			doTweenAlpha('dadFadeEventTween', 'gf', 0, 4, 'linear');
+			doTweenAlpha('iconDadFadeEventTween', 'iconP2', 0, 4, 'linear');
 		end
 		--debugPrint('Event triggered: ', name, duration, targetAlpha);
 	end
