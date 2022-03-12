@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Potomiru",
+			"miku",
+			[
+				46,
+				33,
+				33
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"miku",
+		"bf",
+		"gf"
+	],
+	"storyName": "POTOMIRU PIÑERA",
+	"weekName": "poto",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

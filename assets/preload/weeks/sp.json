@@ -1,8 +1,8 @@
 {
-	"storyName": "Virus",
-	"difficulties": "Hard",
+	"storyName": "Your New Week",
+	"difficulties": "hard",
 	"hideFreeplay": false,
-	"weekBackground": "",
+	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -10,22 +10,22 @@
 		253
 	],
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"songs": [
 		[
-			"Detected",
+			"scratch-post",
 			"miku",
 			[
-				180,
-				40,
-				53
+				255,
+				255,
+				255
 			]
 		]
 	],
 	"weekCharacters": [
-		"",
-		"",
-		""
+		"dad",
+		"bf",
+		"gf"
 	],
 	"weekName": "Custom Week"
 }

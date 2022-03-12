@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Killer Scream", "miku", [23, 255, 178]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "week0",
+
+	"storyName": "",
+	"weekBefore": "week7",
+	"weekName": "Motherland",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
