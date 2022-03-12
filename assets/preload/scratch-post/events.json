@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Miku concert",
+		"player1": "bf",
+		"player2": "miku",
+		"player3": null,
+		"events": [
+			[
+				44307.6923076923,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				66461.5384615385,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 195,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "scratch-post"
+	}
+}
